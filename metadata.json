@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FlavorDash - AI-Powered Food Delivery",
+  "description": "A modern food delivery application featuring AI-driven menu recommendations, intelligent dish search, and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
